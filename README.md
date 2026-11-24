@@ -8,6 +8,20 @@
 
 يمكنك أيضًا فتح [صفحة الإصدارات](https://github.com/abdullahahmed-haq/masar-extension/releases) واختيار ملف `masar-v1.0.39.zip` من قسم Assets. هذا المستودع مخصص لتوزيع النسخة الجاهزة.
 
+## محطات تطور مسار
+
+خمس نسخ مختارة بالترتيب؛ يشرح وصف كل إصدار أهم الإضافات والإصلاحات منذ المحطة السابقة، بما في ذلك التغييرات التي حدثت في الإصدارات الوسيطة:
+
+| الترتيب | الإصدار | المحطة |
+| --- | --- | --- |
+| 1 | [1.0.9](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.9) | نقطة البداية: المكتبة وتقدم المشاهدة والحظر |
+| 2 | [1.0.14](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.14) | المسارات التعليمية |
+| 3 | [1.0.23](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.23) | النافذة السياقية ونشاط التعلّم |
+| 4 | [1.0.32](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.32) | الملاحظات والمراجعات ومتانة الحفظ |
+| 5 | [1.0.39](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.39) | النسخ الاحتياطي والاستيراد الجزئي — الموصى به |
+
+الإصدارات الأربعة القديمة متاحة للرجوع إلى تطور المشروع، وقد تحتوي على مشاكل أُصلحت لاحقًا. ملفات النسخ الاحتياطية الأحدث قد لا تقبلها الإصدارات القديمة.
+
 ## التثبيت على Chrome
 
 1. حمّل ملف ZIP وفك الضغط عنه في مجلد دائم على جهازك. لا تحذف المجلد بعد التثبيت.
