@@ -4,9 +4,9 @@
 
 ## التحميل
 
-[حمّل أحدث إصدار من مسار](https://github.com/abdullahahmed-haq/masar-extension/releases/latest/download/masar-v1.0.39.zip) — الإصدار 1.0.39.
+[حمّل أحدث إصدار من مسار (1.0.40)](https://github.com/abdullahahmed-haq/masar-extension/releases/download/v1.0.40/masar-v1.0.40.zip).
 
-يمكنك أيضًا فتح [صفحة الإصدارات](https://github.com/abdullahahmed-haq/masar-extension/releases) واختيار ملف `masar-v1.0.39.zip` من قسم Assets. هذا المستودع مخصص لتوزيع النسخة الجاهزة.
+يمكنك أيضًا فتح [صفحة الإصدارات](https://github.com/abdullahahmed-haq/masar-extension/releases) واختيار ملف `masar-v1.0.40.zip` من قسم Assets. هذا المستودع مخصص لتوزيع النسخة الجاهزة.
 
 ## محطات تطور مسار
 
@@ -18,9 +18,9 @@
 | 2 | [1.0.14](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.14) | المسارات التعليمية |
 | 3 | [1.0.23](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.23) | النافذة السياقية ونشاط التعلّم |
 | 4 | [1.0.32](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.32) | الملاحظات والمراجعات ومتانة الحفظ |
-| 5 | [1.0.39](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.39) | النسخ الاحتياطي والاستيراد الجزئي — الموصى به |
+| 5 | [1.0.39](https://github.com/abdullahahmed-haq/masar-extension/releases/tag/v1.0.39) | النسخ الاحتياطي والاستيراد الجزئي |
 
-الإصدارات الأربعة القديمة متاحة للرجوع إلى تطور المشروع، وقد تحتوي على مشاكل أُصلحت لاحقًا. ملفات النسخ الاحتياطية الأحدث قد لا تقبلها الإصدارات القديمة.
+الإصدارات السابقة متاحة للرجوع إلى تطور المشروع، وقد تحتوي على مشاكل أُصلحت لاحقًا. ملفات النسخ الاحتياطية الأحدث قد لا تقبلها الإصدارات القديمة.
 
 ## التثبيت على Chrome
 
@@ -42,10 +42,10 @@
 
 ## التحقق من الملف
 
-بصمة SHA-256 للملف `masar-v1.0.39.zip`:
+بصمة SHA-256 للملف `masar-v1.0.40.zip`:
 
 ```text
-46468350c130f6f4865c336db1f728786e7adb08ee11982f1f552769090ec116
+0562515890ed275d3df82dccf0aa8518db8502c7fa7393b9a49eda968972aeca
 ```
 
 ## English
